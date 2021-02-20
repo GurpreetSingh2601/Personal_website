@@ -1,8 +1,12 @@
 ﻿
 body{
-    color:blueviolet;
-    background-color:azure;
+    
+    background-color:#E5DADA;
     font-size: large;
+    text-decoration-color: #002642
+}
+#description{
+    color: #E59500
 }
 img{
     float:left;
@@ -16,7 +20,7 @@ img{
     z-index: 9999;
     width: 100%;
     height: 20px;
-    background-color: lightblue;
+    background-color: #E5DADA;
     border: 3px solid;
     font-family: Algerian;
 }
